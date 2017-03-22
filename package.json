@@ -1,5 +1,5 @@
 {
-    "name": "imgtagjs",
+    "name": "imgtag",
     "version": "1.0.0",
     "description": "Javascript image tagger library",
     "main": "dist/imgtag.min.js",
